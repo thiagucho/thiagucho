@@ -1,16 +1,54 @@
-## Hi there 👋
+# Thiago Ibañez (Thiagucho)
 
-<!--
-**thiagucho/thiagucho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Estudiante de Tecnicatura en Informática | Backend & Ciberseguridad*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre Mí
+
+Soy Thiago Ibañez, alias **Thiagucho**, un estudiante apasionado de Tecnicatura en Informática con foco en desarrollo backend para PWAs y ciberseguridad. Trabajo para construir soluciones tecnológicas, seguras y eficientes.
+
+---
+
+## 🚀 Áreas de Especialización
+
+- **Desarrollo Backend**: PWAs escalables y robustas
+- **Ciberseguridad**: Protección de sistemas y datos
+- **Bases de Datos**: SQL y NoSQL
+- **Tecnologías**: Python, JavaScript, Docker
+
+---
+
+## 💼 Proyecto Destacado
+
+- **LinkSkill**\
+  Plataforma educativa con IA para instituciones. Trabajo en el backend y en soluciones de seguridad, llevando la educación al siguiente nivel.
+
+---
+
+## 🌱 Metas Profesionales
+
+- Dominar **machine learning** para integrar IA en mis proyectos.
+- Impulsar el crecimiento de **LinkSkill** y transformar la educación.
+- Convertirme en un **desarrollador web backend** en una empresa innovadora.
+
+---
+
+## 🛠 Habilidades Técnicas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Visual Studio Code]https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+---
+
+## 📫 Contacto
+
+- **Correo**: thiaguchox@gmail.com
+- **GitHub**: github.com/tu_usuario
+
+---
+
+## 🌐 Proyectos en Curso
+
+- **LinkSkill**: Innovación educativa con IA.
+
+---
+
+*"Si realmente querés, podés lograrlo."*
