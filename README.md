@@ -1,7 +1,5 @@
-# Thiago Ibañez (Thiagucho)
-
-*Estudiante de Tecnicatura en Informática | Backend & Ciberseguridad*
-
+# ![https://thiaguchot.com](https://yt3.ggpht.com/74WWL2hBVkY-9r4rTGXco5RslmH_BNo4o-IY2TOcXwVjroCq9ylRqHiwRWus5bG11ceiKhEvKw=s108-c-k-c0x00ffffff-no-rj) Hola, mi nombre es Brais Moure 👋
+### Estudiante de Tecnicatura en Informática | Backend & Ciberseguridad
 ---
 
 ## 🌟 Sobre Mí
