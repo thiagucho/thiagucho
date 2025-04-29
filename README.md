@@ -41,7 +41,7 @@ Soy Thiago Ibañez, alias **Thiagucho**, un estudiante apasionado de Tecnicatura
 ## 📫 Contacto
 
 - **Correo**: thiaguchox@gmail.com
-- **GitHub**: github.com/tu_usuario
+- **GitHub**: github.com/thiagucho
 
 ---
 
