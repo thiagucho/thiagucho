@@ -4,7 +4,7 @@
 
 ## 🌟 Sobre Mí
 
-Soy Thiago Ibañez, alias **Thiagucho**, un estudiante apasionado de Tecnicatura en Informática con foco en desarrollo backend para PWAs y ciberseguridad. Trabajo para construir soluciones tecnológicas, seguras y eficientes.
+Soy Thiago Ibañez, alias **Thiagucho**. Estoy a meses de recibirme de Técnico en Informática Personal y Profesional con foco en desarrollo backend para PWAs y ciberseguridad. Trabajo para construir soluciones tecnológicas, seguras y eficientes.
 
 ---
 
